@@ -1,1 +1,3 @@
-# CocoSat
+Thoughts on integrating our prototypes and experiments into an appropriate educational curriculum...
+
+see the wiki page for more: https://github.com/K-Space/K-Space-Educational-Curriculum/wiki
